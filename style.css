@@ -1,0 +1,53 @@
+h1{
+    padding: 0px;
+    margin: 0px;
+}
+header{
+    font-family: 'Roboto', sans-serif;
+}
+.text{
+    background-color: blue;
+    color: white;
+}
+.list{
+    background-color: blueviolet;
+    color: white;;
+}
+.table{
+    background-color: coral;
+    color: white;
+}
+.img{
+    background-color: darkturquoise;
+    color: white;
+}
+.text-title{
+    background-color: black;
+    width: 9%;
+    float: right;
+    font-size: 120%;
+}
+.list-title{
+    background-color: black;
+    width: 10%;
+    float: right;
+    font-size: 120%;
+}
+.table-title{
+    background-color: black;
+    width: 11%;
+    float: right;
+    font-size: 120%;
+}
+.img-title{
+    background-color: black;
+    width: 16%;
+    float: right;
+    font-size: 120%;
+}
+.text-title, .list-title, .table-title, .img-title {
+    font-family: 'Open Sans', sans-serif;
+}
+.text, p, table, ul{
+    font-family: 'Poppins', sans-serif;
+}
